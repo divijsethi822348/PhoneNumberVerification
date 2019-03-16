@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhoneVerification</string>
+    <string name="FACEBOOK_APP_ID">405818716638116</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">b2dab5ccecda8f35d9731cf8324da8a5</string>
+</resources>
